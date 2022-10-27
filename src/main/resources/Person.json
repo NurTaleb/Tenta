@@ -1,0 +1,14 @@
+[
+  {
+    "firstName" : "NurTaleb",
+    "lastName" : "Zubaidi",
+    "favoriteMovie" :"Lord Of The Rings"
+
+  },
+
+  {
+    "firstName" : "Omar",
+    "lastName" : "Svensson",
+    "favoriteMovie" : "Hobbit"
+  }
+]
